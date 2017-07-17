@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is just a stock installation of Blacklight and the blacklight_advanced_search gem.
 
-Things you may want to cover:
+It exists to help illustrate the bug fixed in this PR:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://github.com/projectblacklight/blacklight_advanced_search/pull/81
